@@ -16,7 +16,7 @@ Simply import the provided `flip_card.dart` file in your Flutter project and use
 
 Here's a quick demo of the Flip Card widget in action:
 
-![Demo](./ezgif.com-video-to-gif.gif)
+<img src="./ezgif.com-video-to-gif.gif" width="200"/>
 
 ## Contributing
 
